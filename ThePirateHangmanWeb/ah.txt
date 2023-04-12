@@ -1,0 +1,27 @@
+<img src="/images/pepe happy.gif"style="float:right;">
+    <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="FName" value=""><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="LName" value=""><br>
+        <input type="button" id="button" ; value="START" />
+        <br><br>
+        <audio controls play>
+            <source src="/audio/Rick Astley - Never Gonna Give You Up (Official Music Video).mp3 ">
+          </audio>
+        </form>
+
+
+
+
+
+input#button{
+    font-size: 20px;
+    margin-left:85px;
+}
+input#fname{
+    font-size: 20px;
+}
+input#lname{
+    font-size: 20px;
+}

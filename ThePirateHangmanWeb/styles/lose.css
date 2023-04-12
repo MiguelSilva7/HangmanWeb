@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    width: 100%;
+    background-color: rgb(28, 145, 56);
+    height: 100vh;
+}    
+
+.pepelose{
+    background-image: url(/images/pepepleur.png);
+}

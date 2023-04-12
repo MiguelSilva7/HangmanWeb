@@ -1,0 +1,38 @@
+.parent{
+    display: flex;
+    width: 100%;
+    background-color: rgb(28, 145, 56);
+    height: 100vh;
+    flex-direction: column;
+}   
+ .pepelose{
+    background-image: url(/images/pepepleur.png);
+}
+.hangman{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    padding-top:180px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 4%;
+}
+
+.input{
+display: flex;
+padding-top:50px;
+padding-left: 42%;
+}
+
+
+#submit {
+    width: fit-content;
+}
+

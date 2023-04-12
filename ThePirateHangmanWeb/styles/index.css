@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(28, 145, 56);
+    height: 100vh;
+}    
+.btn-hang{
+    height: 10vh;
+    width: fit-content; 
+}
+.suite {
+    background-color: black;
+    padding: 0.95rem 3rem;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1em;
+    color: #fff;
+    border-radius: 5rem;
+}
